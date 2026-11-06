@@ -19,9 +19,10 @@ export const metadata: Metadata = {
     "Farkai Foundation Sierra Leone is a charitable organization dedicated to supporting vulnerable children, people living with disabilities, and less privileged communities through compassion, inclusion, and community outreach.",
   metadataBase: new URL("https://farkai-foundation.vercel.app"),
   icons: {
-    icon: "/images/logo.jpg",
-    apple: "/images/logo.jpg",
-  },
+  icon: "/icon.jpg?v=2",
+  shortcut: "/icon.jpg?v=2",
+  apple: "/icon.jpg?v=2",
+},
   openGraph: {
     title: "Farkai Foundation Sierra Leone",
     description:
